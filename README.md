@@ -9,6 +9,6 @@ https://app.qase.io/project/G101?previewMode=side&suite=210&tab=properties
 Ссылка на PDF тест-кейса
 https://app.qase.io/print/project/G101?filter=%7B%7D&suite_id=210&sort_by=position
 
-Отчеты о дефекте 
+
 
 
